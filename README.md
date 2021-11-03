@@ -14,19 +14,19 @@ Usage
 
 watch anime
 
-ani-cli <query>
+    ani-cli <query>
 
-    download anime
+download anime
 
-ani-cli -d <query>
+    ani-cli -d <query>
 
-    resume watching anime
+resume watching anime
 
-ani-cli -H
+    ani-cli -H
 
-    set video quality
+set video quality
 
-ani-cli -q 360
+    ani-cli -q 360
 
 By default ani-cli would try to get the best video quality available
 You can give specific qualities like 360/480/720/..
