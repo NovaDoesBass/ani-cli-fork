@@ -4,7 +4,7 @@ git clone https://github.com/NovaDoesBass/ani-cli-fork
 
 cd ani-cli
 
-make ani-cli
+sudo make
 
 run ani-cli in terminal and search for anime 
 
