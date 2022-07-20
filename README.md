@@ -4,7 +4,7 @@ Fork designed to make better use of dependancies and mirrors for Arch-systems.
 
     git clone https://github.com/NovaDoesBass/ani-cli-fork
 
-    cd ani-cli
+    cd ani-cli-fork
 
     sudo make
 
