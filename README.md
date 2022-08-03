@@ -14,19 +14,19 @@ Usage
 
 watch anime
 
-    ani-cli <query>
+    ani-cli-fork <query>
 
 download anime
 
-    ani-cli -d <query>
+    ani-cli-fork -d <query>
 
 resume watching anime
 
-    ani-cli -H
+    ani-cli-fork -H
 
 set video quality
 
-    ani-cli -q 360
+    ani-cli-fork -q 360
 
 By default ani-cli would try to get the best video quality available
 You can give specific qualities like 360/480/720/..
